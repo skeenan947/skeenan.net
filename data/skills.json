@@ -1,0 +1,24 @@
+[
+  {
+    "grouping":"Architecture & Strategy",
+    "skills":[ "SDLC & Architectural Process","Developer Enablement","Cloud Migration","Distributed Systems","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },
+  {
+    "grouping":"Languages, Operating Systems & Tools",
+    "skills":[ "Go", "Python", "git", "linux", "bash", "Terraform"]
+  },
+  {
+    "grouping":"CI/CD",
+    "skills":[ "GitLab", "GitHub Actions", "ArgoCD", "CodeFresh"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+    "skills":[
+      {"name":"Kubernetes","link":"https://kubernetes.io"},
+      {"name":"Google Cloud","link":"https://cloud.google.com"},
+      {"name":"AWS","link":"https://aws.amazon.com"},
+      {"name":"Docker","link":"https://docker.com"},
+      {"name":"Helm","link":"https://helm.sh"}
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "role":"Principal Architect (Sr. Dir)",
+        "company":"Sauce Labs",
+        "summary":"Drive architecture process & engineering SDLC (technical strategy)\nDefine product strategy and horizon 2-3 architecture plan to enable the business to successfully grow through the next 5 years.\nDue Diligence for multiple acquisitions\nOwn Google partner relationship, negotiated multi-million dollar partnership with Google\nLed public cloud transformation and architecture shift to Google Cloud\nGrew engineering org and process from 30 to over 130 people\nLed reliability initiative to move from ~99.5 to 99.9\nWork within many parts of the Sauce Labs codebase, leading by both example and influence",
+        "range":"July 2016 - Present"
+    },
+    {
+        "role":"Advisor",
+        "company":"Evernym",
+        "summary":"Advise on architecture and organizational patterns\nImplemented ADR (Architecture Decision Record) process for the engineering organization\nExpert advice on event-based architecture, CI/CD best practices, cloud infrastructure management\nHelped drive migration from EC2 to EKS (Kubernetes-based deployments)",
+        "range":"April, 2021 - Present"
+    },
+    {
+        "role":"Staff Cloud Architect (Director)",
+        "company":"Gap Inc.",
+        "summary":"Architecture & strategy for PaaS deployment & usage best practices\nBuilt pipeline as code capabilities, replacing manually built pipelines - improved pipeline performance >10x\nMentor 40+ teams moving applications & CI/CD pipelines to cloud services\nLead Infrastructure and CI/CD teams building mobile checkout/POS solution\nRolled out Next-Gen POS system (iOS, Single-Page App, Microservices) to 7500+ stores",
+        "range":"February 2014 - July 2016"
+    },
+    {
+        "role":"Team Lead & Product Owner",
+        "company":"Salesforce",
+        "summary":"Team lead & product owner for an internal product team at Salesforce.\nResponsible for working with stakeholders & internal clients to define requirements for projects, prioritize, and work with engineers to deliver final product to requesting teams.\nDesigned and built an 8,000sf data center, cut over a large environment to it\nLed team in architecture design, review, and implementation, working closely with management and project managers",
+        "range":"January 2013 - February 2014"
+    },
+    {
+        "role":"Lead System Engineer",
+        "company":"Salesforce",
+        "summary":"Led a team of Linux systems engineers, acting as engineer, architect, and product owner.\nWorked with client teams to define requirements, architecture, and finally aid the team in delivering hundreds of development environments within Salesforce\nAutomated provisioning for both physical and virtual (VMware ESX, OpenStack) machines running RHEL4,5,6\nDeveloped an asset management system, allowing engineers, management, and procurement groups to track inventory\nAssisted in triage for internal outages & performance issues",
+        "range":"October 2009 - January 2013"
+    },
+    {
+        "role":"Lead System Engineer",
+        "company":"IPSoft",
+        "summary":"Support production sites for gap.com, oldnavy.com, bananarepublic.com, piperlime.com\nLed a team of 3 on-site engineers, acted as liaison to the NOC, and customer liaison betweer Gap and IPsoft, helping with architecture for Gap web sites & internal monitoring systems Systems and SAN administration\nBuild and implement new monitoring system",
+        "range":"March 2008 - October 2009"
+    }
+]
