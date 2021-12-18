@@ -24,10 +24,8 @@ showPublications = false
 showQr = true
 showSkills = true
 
-[params.google]
-
-[params.google.analytics]
-trackerID = "UA-72320367-1"
+# GA4
+googleAnalyticsID = "G-297211261"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/skeenan/"

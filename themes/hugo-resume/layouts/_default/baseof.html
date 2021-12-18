@@ -33,6 +33,9 @@
   {{ block "headfiles" . }}
    <!-- pl;aceholder -->
   {{ end }}
+  {{ if .Site.Params.GoogleAnalyticsID }}
+  {{ partial "analytics-gtag.html" . }}
+  {{ end }}
 </head>
 <body id="page-top">
   {{ partial "nav.html" . }}
