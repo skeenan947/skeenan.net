@@ -1,5 +1,5 @@
 title = "Shaun Keenan"
-baseURL = "https://skeenan.net/"
+baseURL = "/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
