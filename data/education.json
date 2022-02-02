@@ -3,6 +3,7 @@
         "school":"[California State University, East Bay](https://www.csueastbay.edu/)",
         "degree":"Bachelor of Science",
         "major":"Computer Science",
-        "range":"2000 - 2008"
+        "range":"2000 - 2008",
+        "notes":"Focus on Operating Systems, Telecommunications, and SQL\n\nCompleted masters courses in query parser theory and telecom\n\nMajor projects included fully-featured file management site, and a text editor written entirely in Assembler with full menu system and load/save features\n\nWrote the university's grade management system while attending classes & working in the Technology department"
     }
 ]
