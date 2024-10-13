@@ -1,9 +1,27 @@
 [
     {
-        "role":"Principal Architect (Sr. Director)",
+        "role":"Principal Architect",
+        "company":"Zencore, LLC",
+        "summary":"I lead a team of SWEs, Cloud Engineers, and architects, both scoping engagements, and delivering on them.\nWe deliver engagements in the following areas:\n* Cloud Infrastructure & Application Migrations\n* CI/CD Tooling\n* AI Applications (e.g. ChatBots for various industries, many including RAG)\n* Data Analytics & Business Intelligence\n* DevOps Transformation\n* Custom Software Development\n* IT Strategy & Consulting",
+        "range":"July 2022 - Present"
+    },
+    {
+        "role":"Advisor",
+        "company":"Emergence Software",
+        "summary":"Longtime investors and operators building a coalition of enterprise software partners across ecosystems. Backed by The Pritzker Organization and other exceptional partners.",
+        "range":"September 2024 - Present"
+    },
+    {
+        "role":"Advisor",
+        "company":"Gen Digital",
+        "summary":"Advise on architecture and organizational patterns\nImplemented ADR (Architecture Decision Record) process for the engineering organization\nExpert advice on event-based architecture, CI/CD best practices, cloud infrastructure management\nHelped drive migration from EC2 to EKS (Kubernetes-based deployments)\nTechnologies: AWS, Google Cloud (GCP), GitLab, Kubernetes, Helm, Vault, Kafka (Confluent Cloud)",
+        "range":"April 2021 - October 2023"
+    },
+    {
+        "role":"Head of Architecture",
         "company":"Sauce Labs",
         "summary":"Drive architecture process & engineering SDLC (technical strategy)\nDefine product strategy and horizon 2-3 architecture plan to enable the business to successfully grow through the next 5 years.\nDue Diligence for multiple acquisitions\nOwn Google partner relationship, negotiated multi-million dollar partnership with Google\nLed public cloud transformation and architecture shift to Google Cloud\nGrew engineering org and process from 30 to over 130 people\nLed reliability initiative to move from ~99.5 to 99.9\nWork within many parts of the Sauce Labs codebase, leading by both example and influence",
-        "range":"July 2016 - Present"
+        "range":"July 2016 - July 2022"
     },
     {
         "role":"Advisor",
